@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tokiyana
+- 👋 Hi, I’m @janaomai
 - 👀 I’m interested in Data Science
 
 <!---
